@@ -2,7 +2,7 @@
 
 # requires: pip install awscli awsebcli
 
-# uncomment to debug xx
+# uncomment to debug xxc
 #set -x
 
 fail() {
